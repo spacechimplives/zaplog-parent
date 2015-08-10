@@ -1,0 +1,12 @@
+.votes div, .upvote div, .downvote div{
+	display: block;
+	background-color: #000000;
+	border-bottom: 0px;
+}
+a.upvote, a.downvote{
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 10px;
+	border-bottom: 0px;
+}
+
